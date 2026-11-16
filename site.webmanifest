@@ -1,0 +1,13 @@
+{
+  "name": "سنا سبحانی | sana.dev",
+  "short_name": "sana.dev",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#090d18",
+  "theme_color": "#090d18",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
